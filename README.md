@@ -1,0 +1,2 @@
+# CIVICPULSE-AI
+MY AI project
